@@ -7,8 +7,8 @@ Just a simple tool use shell script to generate semi-GSI patch automatically.
 #### If you see this word in Github, please access [Gitee Project Site](https://gitee.com/jvlong2019/Easy-sGSI).
 
 ***
-#### 如果你不能从Gitee下载，请从GitHub Release页面下载。
-#### If you can’t download from gitee, please download at GitHub release page.
+#### 如果你不能从Gitee下载，请从[GitHub Release页面](https://github.com/together08/Easy-sGSI/releases)下载。
+#### If you can’t download from gitee, please download at [GitHub release page](https://github.com/together08/Easy-sGSI/releases).
 ***
 
 ## Clone项目源码/ Clone the source code:
